@@ -1,0 +1,1 @@
+# Equilibria-Among-Strategic-Producers-and-Strategic-Consumers-Single-Optimization-Problem
