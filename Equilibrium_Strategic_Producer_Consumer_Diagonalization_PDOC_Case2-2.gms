@@ -16,8 +16,6 @@ Sets
     Z(J) Strategic Consumer /J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J16, J17/
     UnitGeneratorConect(I, U) Producer 3 has more than 50% of the market share /I1.U1, I2.U2, I3.U3, I3.U4, I3.U8, I3.U9, I3.U5, I6.U6, I7.U7, I10.U10, I11.U11, I12.U12/
     UnitConsumerConect(J, C) /J1.C1, J2.C2, J3.C3, J4.C4, J5.C5, J6.C6, J7.C7, J8.C8, J9.C9, J10.C10, J11.C11, J12.C12, J13.C13, J14.C14, J15.C15, J16.C16, J17.C17/;
-*
-**Interesting analyzis: when the U5 (more expensive unit) belongs to the big strategic company, the market price clears to its cost however when unit five is a single company, the market prices clears at 22.72, indicating how strong a large company is when it comes to the clearing market prices process
 ***************************************************************************
 ** DATA
 ***************************************************************************
